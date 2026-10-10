@@ -31,6 +31,10 @@ h1 {
   font-weight: var(--titles-weight);
 }
 
+.header {
+  background-color: #000000;
+}
+
 body,
 img,
 h1,
